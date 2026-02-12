@@ -24,7 +24,7 @@
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
+  "defaultModelKey": "qwen/qwen3-coder:free|openrouterai",
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -38,7 +38,7 @@
   "autosaveChat": true,
   "generateAIChatTitleOnSave": true,
   "autoAddActiveContentToContext": true,
-  "defaultOpenArea": "editor",
+  "defaultOpenArea": "view",
   "defaultSendShortcut": "enter",
   "customPromptsFolder": "copilot/copilot-custom-prompts",
   "indexVaultToVectorStore": "ON MODE SWITCH",
@@ -199,8 +199,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -209,8 +209,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -219,8 +219,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -229,8 +229,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -293,6 +293,14 @@
     },
     {
       "name": "qwen/qwen3-coder:free",
+      "provider": "openrouterai",
+      "enabled": true,
+      "enableCors": true,
+      "maxTokens": 3200,
+      "temperature": 0.69
+    },
+    {
+      "name": "liquid/lfm-2.5-1.2b-thinking:free",
       "provider": "openrouterai",
       "enabled": true
     }

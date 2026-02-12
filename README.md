@@ -1,4 +1,4 @@
-## Hi  👋
+## Hi  👋 Привет
 
 
 **BenTelega/BenTelega** is a ✨ _speci![photo_2026-02-06_07-46-33](https://github.com/user-attachments/assets/48163b76-df80-44c9-8528-1050a2d22902)
