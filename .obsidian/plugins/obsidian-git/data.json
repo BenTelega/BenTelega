@@ -1,6 +1,6 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "commitMessage": "b{{date}}",
+  "autoCommitMessage": "b{{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "benYYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,

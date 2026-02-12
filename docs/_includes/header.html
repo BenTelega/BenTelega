@@ -1,0 +1,18 @@
+<!-- Site header with navigation -->
+<header class="site-header">
+  <div class="site-header-content">
+    <h1 class="site-title">
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    </h1>
+    <p class="site-description">{{ site.description }}</p>
+    <nav class="site-nav">
+      <ul class="nav-list">
+        {% for item in site.nav %}
+        <li class="nav-item">
+          <a href="{{ item.url | relative_url }}" class="nav-link">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

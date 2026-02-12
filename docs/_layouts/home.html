@@ -1,0 +1,33 @@
+<!-- Home page layout -->
+{% extends "default.html" %}
+
+{% block content %}
+<div class="home-content">
+  <section class="hero">
+    <h1 class="hero-title">{{ page.title }}</h1>
+    <p class="hero-description">{{ page.description }}</p>
+    {% if page.cta %}
+    <a href="{{ page.cta.url }}" class="cta-button">{{ page.cta.text }}</a>
+    {% endif %}
+  </section>
+
+  <section class="features">
+    <h2 class="section-title">Features</h2>
+    <div class="features-grid">
+      {% for feature in page.features %}
+      <div class="feature-card">
+        <div class="feature-icon">
+          <i class="fas {{ feature.icon }}"></i>
+        </div>
+        <h3 class="feature-title">{{ feature.title }}</h3>
+        <p class="feature-description">{{ feature.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="content">
+    {{ content }}
+  </section>
+</div>
+{% endblock %}

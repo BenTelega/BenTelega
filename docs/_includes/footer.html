@@ -1,0 +1,16 @@
+<!-- Site footer -->
+<footer class="site-footer">
+  <div class="footer-content">
+    <p class="copyright">
+      &copy; {{ "now" | date: "%Y" }} {{ site.author.name | default: site.title }}.
+      All rights reserved.
+    </p>
+    <div class="footer-links">
+      {% if site.repository %}
+      <a href="https://github.com/{{ site.repository }}" class="footer-link">
+        <i class="fab fa-github"></i> View on GitHub
+      </a>
+      {% endif %}
+    </div>
+  </div>
+</footer>
