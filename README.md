@@ -1,6 +1,6 @@
 ## Hi  👋
 
-<!--
+
 **BenTelega/BenTelega** is a ✨ _speci![photo_2026-02-06_07-46-33](https://github.com/user-attachments/assets/48163b76-df80-44c9-8528-1050a2d22902)
 al_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
