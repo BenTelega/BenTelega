@@ -63,7 +63,8 @@
       "projectEnabled": false,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "enableCors": true
     },
     {
       "name": "google/gemini-2.5-flash",
