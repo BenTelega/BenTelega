@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "f88510c2fc290b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -46,8 +60,78 @@
   "left": {
     "id": "c33f35779734dfd5",
     "type": "mobile-drawer",
-    "children": [],
-    "currentTab": -1
+    "children": [
+      {
+        "id": "5f43228946267f61",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "af03e6fce689f12c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "16eb2f421301156d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "4cdbac5e0cf4ccb9",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Все свойства"
+        }
+      },
+      {
+        "id": "37f598f691f79cf4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "ebc5689611ad0524",
@@ -98,9 +182,19 @@
           "icon": "lucide-list",
           "title": "Структура"
         }
+      },
+      {
+        "id": "02834f9572c7d673",
+        "type": "leaf",
+        "state": {
+          "type": "copilot-chat-view",
+          "state": {},
+          "icon": "message-square",
+          "title": "Copilot"
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -115,12 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3c2954418267af7",
+  "active": "02834f9572c7d673",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/изучи@20260213_023134.md",
+    "Без названия.md",
+    "README.md",
     "docs/index.md",
     "Без названия.base",
     "copilot/copilot-conversations/напиши__config.yml@20260212_235810.md",
-    "README.md",
     "Без названия",
     "copilot/copilot-conversations/create_Jekyll_yaml@20260212_235028.md",
     "copilot/copilot-conversations",
@@ -141,7 +237,6 @@
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
-    "copilot",
-    "Без названия.md"
+    "copilot"
   ]
 }
