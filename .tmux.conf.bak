@@ -1,0 +1,40 @@
+# ~/.tmux.conf — базовая настройка tmux
+
+# Префикс: Ctrl+a вместо Ctrl+b (для активации: Ctrl+a, потом команда)
+unbind C-b
+set -g prefix C-a
+bind C-a send-prefix
+
+# Включи мышь: переключение панелей, ресайз, скролл
+set -g mouse on
+
+# Терминал с 256 цветами
+set -g default-terminal "screen-256color"
+
+# История команд побольше
+set -g history-limit 10000
+
+# Номера панелей/окон от 1 (0 неудобно)
+set -g base-index 1
+setw -g pane-base-index 1
+
+# Автоматическая переименование окон
+setw -g automatic-rename on
+set -g automatic-rename-format '#{b:pane_current_path}'
+
+# Цвета статус-бара (Nord-подобные: тёмный фон, светлый текст)
+set -g status-bg black
+set -g status-fg white
+set -g status-left "#[fg=green] #S "
+set -g status-right "#[fg=cyan] %H:%M %d/%m "
+
+# Разделители экрана (Alt+стрелки для ресайза)
+bind | split-window -h
+bind - split-window -v
+bind h select-pane -L
+bind l select-pane -R
+bind k select-pane -U
+bind j select-pane -D
+
+# Видеоинфо: CPU/память в статус-баре (если tmux-continuum плагин позже)
+set -g status-interval 5
