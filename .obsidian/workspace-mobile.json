@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ],
@@ -182,30 +182,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c7844e02fc82bdd",
+  "active": "5f43228946267f61",
   "lastOpenFiles": [
-    "app/README.md",
+    "/benflow/configs/oh-my-zsh/custom/themes",
+    "/benflow/configs/oh-my-zsh/custom/plugins/example",
+    "/benflow/configs/oh-my-zsh/custom/plugins",
+    "/benflow/configs/oh-my-zsh/custom/completions",
+    "/benflow/configs/oh-my-zsh/custom",
+    "/benflow/configs/oh-my-zsh",
+    "/benflow/configs",
+    "/benflow",
+    "/app/src/types",
+    "/app/src/screens",
+    "/app/src/lib",
+    "TMUX_README.md",
     "README.md",
+    "docs/index.md",
+    "app/README.md",
     "benflow/README.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "benflow/configs/oh-my-zsh/custom/plugins/example/example.plugin.zsh",
-    "benflow/configs/oh-my-zsh/custom/themes/powerlevel10k",
-    "benflow/configs/oh-my-zsh/custom/themes/example.zsh-theme",
-    "benflow/configs/oh-my-zsh/custom/completions/_openspec",
-    "benflow/configs/oh-my-zsh/custom/plugins/zsh-syntax-highlighting",
-    "benflow/configs/oh-my-zsh/custom/plugins/example",
-    "benflow/configs/oh-my-zsh/custom/plugins/zsh-autosuggestions",
-    "benflow/configs/oh-my-zsh/custom/themes",
-    "benflow/configs/oh-my-zsh/custom/example.zsh",
-    "benflow/configs/oh-my-zsh/custom/completions",
     "benflow/configs/oh-my-zsh/README.md",
     "/benflow/configs/oh-my-zsh/README.md",
     "/benflow/README.md",
     "copilot/copilot-conversations/изучи@20260213_023134.md",
     "copilot/copilot-conversations/create_Jekyll_yaml@20260212_235028.md",
     "copilot/copilot-conversations/напиши__config.yml@20260212_235810.md",
-    "docs/index.md",
-    "TMUX_README.md",
     "/TMUX_README.md",
     "Без названия.md",
     "nnh.md",
@@ -218,7 +219,6 @@
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md"
+    "copilot/copilot-custom-prompts/Explain like I am 5.md"
   ]
 }

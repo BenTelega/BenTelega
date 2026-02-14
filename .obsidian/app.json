@@ -22,5 +22,6 @@
     "editor:indent-list",
     "editor:unindent-list",
     "editor:insert-callout"
-  ]
+  ],
+  "showUnsupportedFiles": true
 }
