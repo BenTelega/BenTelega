@@ -1,13 +1,13 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Solarized",
   "theme": "system",
-  "interfaceFontFamily": "Fira Code",
+  "interfaceFontFamily": "",
   "textFontFamily": "Fira Code",
   "monospaceFontFamily": "",
   "baseFontSize": 14,
   "baseFontSizeAction": true,
   "accentColor": "",
-  "autoFullScreen": false,
-  "floatingNavigation": false,
-  "slidingSidebar": false
+  "autoFullScreen": true,
+  "floatingNavigation": true,
+  "slidingSidebar": true
 }

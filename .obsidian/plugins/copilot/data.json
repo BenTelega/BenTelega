@@ -13,9 +13,9 @@
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "",
-  "openRouterAiApiKey": "sk-or-v1-0fc3714dbd3f48f66b1d5203f3e5033b739ff685bf",
+  "openRouterAiApiKey": "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",
   "xaiApiKey": "",
-  "mistralApiKey": "",
+  "mistralApiKey": "Xx2cnUBumL0nfGpp5GB6SgjDK0kyQKXK",
   "deepseekApiKey": "",
   "amazonBedrockApiKey": "",
   "amazonBedrockRegion": "",
@@ -24,7 +24,7 @@
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "liquid/lfm-2.5-1.2b-thinking:free|openrouterai",
+  "defaultModelKey": "devstral-small-latest|mistralai",
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -63,8 +63,7 @@
       "projectEnabled": false,
       "capabilities": [
         "vision"
-      ],
-      "enableCors": true
+      ]
     },
     {
       "name": "google/gemini-2.5-flash",
@@ -279,14 +278,14 @@
       "name": "deepseek-ai/DeepSeek-V3",
       "provider": "siliconflow",
       "enabled": false,
-      "isBuiltIn": false,
+      "isBuiltIn": true,
       "baseUrl": "https://api.siliconflow.com/v1"
     },
     {
       "name": "deepseek-ai/DeepSeek-R1",
       "provider": "siliconflow",
       "enabled": false,
-      "isBuiltIn": false,
+      "isBuiltIn": true,
       "baseUrl": "https://api.siliconflow.com/v1",
       "capabilities": [
         "reasoning"
@@ -303,6 +302,16 @@
     {
       "name": "liquid/lfm-2.5-1.2b-thinking:free",
       "provider": "openrouterai",
+      "enabled": true
+    },
+    {
+      "name": "meta-llama/llama-3.3-70b-instruct:free",
+      "provider": "openrouterai",
+      "enabled": true
+    },
+    {
+      "name": "devstral-small-latest",
+      "provider": "mistralai",
       "enabled": true
     }
   ],
@@ -413,7 +422,7 @@
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
   "projectList": [],
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "3.2.2",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
