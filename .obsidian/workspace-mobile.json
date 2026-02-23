@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -192,8 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f43228946267f61",
+  "active": "9c7844e02fc82bdd",
   "lastOpenFiles": [
+    "docs/index.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "README.md",
     "/benflow/configs/oh-my-zsh/custom/themes",
     "/benflow/configs/oh-my-zsh/custom/plugins/example",
     "/benflow/configs/oh-my-zsh/custom/plugins",
@@ -204,10 +209,7 @@
     "/benflow",
     "/app/src/types",
     "/app/src/screens",
-    "/app/src/lib",
     "TMUX_README.md",
-    "README.md",
-    "docs/index.md",
     "app/README.md",
     "benflow/README.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -220,15 +222,12 @@
     "/TMUX_README.md",
     "Без названия.md",
     "nnh.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md"
   ]
 }
