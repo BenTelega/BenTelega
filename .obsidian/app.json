@@ -23,5 +23,6 @@
     "editor:unindent-list",
     "editor:insert-callout"
   ],
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "openBehavior": "daily"
 }

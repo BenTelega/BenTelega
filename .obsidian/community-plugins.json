@@ -1,4 +1,7 @@
 [
   "copilot",
-  "obsidian-git"
+  "obsidian-git",
+  "homepage",
+  "templater-obsidian",
+  "obsidian-livesync"
 ]

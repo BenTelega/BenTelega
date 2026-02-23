@@ -1,1 +1,13 @@
-{}
+{
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "interfaceFontFamily": "Fira Code",
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "accentColor": "",
+  "autoFullScreen": false,
+  "floatingNavigation": false,
+  "slidingSidebar": false
+}
