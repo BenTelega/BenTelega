@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md.md",
+                "file": "everyDay/2026/02/2026-02-24.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "2026-02-24"
             }
           }
         ],
@@ -205,8 +205,8 @@
   },
   "active": "29a8b47ea9feb08f",
   "lastOpenFiles": [
-    "README.md",
     "docs/index.md.md",
+    "README.md",
     "everyDay/2026/02/2026-02-24.md",
     "docs/index.html",
     "everyDay/2026/02/2026-02-23.md",
