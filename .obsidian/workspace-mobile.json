@@ -13,40 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "f4547f09207f76a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "de29fbeba543a2ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "app/README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
+            }
+          },
+          {
+            "id": "6173b6bdf0a22196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "everyDay/2026/02/2026-02-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-23"
+            }
+          },
+          {
+            "id": "00b77e9f757d99f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "everyDay/2026/02/2026-02-24.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-24"
             }
           }
         ],
@@ -60,20 +60,7 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5c003aca9e50f70a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {
-            "sortOrder": "alphabetical",
-            "autoReveal": true
-          },
-          "icon": "lucide-folder-closed",
-          "title": "Файловый менеджер"
-        }
-      },
-      {
-        "id": "1444c95287308b2e",
+        "id": "4658a3a1867d2402",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -90,7 +77,7 @@
         }
       },
       {
-        "id": "291294732ed92fcc",
+        "id": "f9ef24596eb2d111",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -105,7 +92,7 @@
         }
       },
       {
-        "id": "cf4b15eb39e4b0db",
+        "id": "953cc1bec275e14a",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -119,7 +106,7 @@
         }
       },
       {
-        "id": "36c8a53186edb136",
+        "id": "4d9d7a47c0ee799d",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -187,8 +174,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-ghost",
+          "title": "git-view"
         }
       },
       {
@@ -197,8 +184,8 @@
         "state": {
           "type": "copilot-chat-view",
           "state": {},
-          "icon": "message-square",
-          "title": "Copilot"
+          "icon": "lucide-ghost",
+          "title": "copilot-chat-view"
         }
       }
     ],
@@ -215,20 +202,23 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": true,
+      "bases:Создать новую базу": false,
       "copilot:Open Copilot Chat": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "12dab03b77a7f0e3",
+  "active": "00b77e9f757d99f4",
   "lastOpenFiles": [
+    "everyDay/2026/02/2026-02-23.md",
+    "everyDay/2026/02/My code file.ts",
+    "app/src/My code file.ts",
+    "Без названия.md",
+    "app/README.md",
     "docs/index.md",
     "README.md",
     "copilot/copilot-conversations/go@20260223_161654.md",
     "copilot/copilot-conversations/go@20260223_161028.md",
-    "Без названия.md",
-    "everyDay/2026/02/2026-02-23.md",
     "Без названия 2.md",
     "everyDay/2026/02",
     "everyDay/2026",
@@ -243,10 +233,7 @@
     "/benflow/configs/oh-my-zsh/custom/plugins/example",
     "/benflow/configs/oh-my-zsh/custom/plugins",
     "/benflow/configs/oh-my-zsh/custom/completions",
-    "/benflow/configs/oh-my-zsh/custom",
-    "/benflow/configs/oh-my-zsh",
     "TMUX_README.md",
-    "app/README.md",
     "benflow/README.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "benflow/configs/oh-my-zsh/README.md",
@@ -257,7 +244,6 @@
     "/TMUX_README.md",
     "nnh.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md"
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md"
   ]
 }
