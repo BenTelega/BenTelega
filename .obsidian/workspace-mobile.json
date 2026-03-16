@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "everyDay/2026/03/2026-03-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2026-03-16"
             }
           }
         ],
@@ -219,6 +219,10 @@
   },
   "active": "ea571da14e258391",
   "lastOpenFiles": [
+    "everyDay/2026/03/2026-03-17.md",
+    "docs/index.md",
+    "everyDay/2026/03/2026-03-07.md",
+    "everyDay/2026/03",
     "everyDay/2026/02/2026-02-27.md",
     "Без названия 1.md",
     "everyDay/2026/02/2026-02-25.md",
@@ -231,7 +235,6 @@
     "app/src/My code file.ts",
     "Без названия.md",
     "app/README.md",
-    "docs/index.md",
     "copilot/copilot-conversations/go@20260223_161654.md",
     "copilot/copilot-conversations/go@20260223_161028.md",
     "Без названия 2.md",
@@ -245,15 +248,12 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "/benflow/configs/oh-my-zsh/custom/themes",
     "/benflow/configs/oh-my-zsh/custom/plugins/example",
-    "/benflow/configs/oh-my-zsh/custom/plugins",
     "TMUX_README.md",
     "benflow/README.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "benflow/configs/oh-my-zsh/README.md",
     "/benflow/configs/oh-my-zsh/README.md",
     "/benflow/README.md",
-    "copilot/copilot-conversations/изучи@20260213_023134.md",
-    "copilot/copilot-conversations/напиши__config.yml@20260212_235810.md",
-    "/TMUX_README.md"
+    "copilot/copilot-conversations/изучи@20260213_023134.md"
   ]
 }
