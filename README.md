@@ -12,7 +12,7 @@
 ---
 
 ### 📊 Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BenTelegaCore&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BenTelega&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 
 ---
 
