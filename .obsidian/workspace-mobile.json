@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "everyDay/2026/03/2026-03-17.md",
+                "file": "everyDay/2026/03/2026-03-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-17"
+              "title": "2026-03-19"
             }
           }
         ],
@@ -219,6 +219,10 @@
   },
   "active": "ea571da14e258391",
   "lastOpenFiles": [
+    "Без названия 2.md",
+    "IMG_3781.jpeg",
+    "IMG_3780.jpeg",
+    "everyDay/2026/03/2026-03-19.md",
     "everyDay/2026/03/2026-03-17.md",
     "docs/index.md",
     "everyDay/2026/03/2026-03-07.md",
@@ -237,7 +241,6 @@
     "app/README.md",
     "copilot/copilot-conversations/go@20260223_161654.md",
     "copilot/copilot-conversations/go@20260223_161028.md",
-    "Без названия 2.md",
     "everyDay/2026/02",
     "everyDay/2026",
     "everyDay",
@@ -252,8 +255,6 @@
     "benflow/README.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "benflow/configs/oh-my-zsh/README.md",
-    "/benflow/configs/oh-my-zsh/README.md",
-    "/benflow/README.md",
-    "copilot/copilot-conversations/изучи@20260213_023134.md"
+    "/benflow/configs/oh-my-zsh/README.md"
   ]
 }
