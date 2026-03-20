@@ -35,12 +35,14 @@
             "id": "ea571da14e258391",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMG_3793.jpeg"
+                "file": "Без названия 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG_3793"
+              "icon": "lucide-file",
+              "title": "Без названия 2"
             }
           }
         ],
@@ -191,8 +193,8 @@
         "state": {
           "type": "copilot-chat-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "copilot-chat-view"
+          "icon": "message-square",
+          "title": "Copilot"
         }
       }
     ],
@@ -217,11 +219,11 @@
   },
   "active": "ea571da14e258391",
   "lastOpenFiles": [
+    "everyDay/2026/03/2026-03-19.md",
     "Без названия 2.md",
     "IMG_3788.jpeg",
     "IMG_3782.jpeg",
     "IMG_3793.jpeg",
-    "everyDay/2026/03/2026-03-19.md",
     "IMG_3781.jpeg",
     "IMG_3780.jpeg",
     "everyDay/2026/03/2026-03-17.md",
