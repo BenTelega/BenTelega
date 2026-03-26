@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "everyDay/2026/03/2026-03-22.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-22"
+              "title": "README"
             }
           }
         ],
@@ -219,11 +219,12 @@
   },
   "active": "ea571da14e258391",
   "lastOpenFiles": [
-    "Без названия 2.md",
+    "docs/index.md",
     "Без названия 1.md",
     "README.md",
+    "everyDay/2026/03/2026-03-26.md",
+    "Без названия 2.md",
     "Без названия",
-    "docs/index.md",
     "everyDay/2026/03/2026-03-07.md",
     "everyDay/2026/03/2026-03-16.md",
     "everyDay/2026/03/2026-03-17.md",
