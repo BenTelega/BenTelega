@@ -1,21 +1,5 @@
-# AGENTS.md
+<!-- BEGIN:nextjs-agent-rules -->
+# This is NOT the Next.js you know
 
-## What this is
-
-Personal GitHub Pages site (bot/agent developer portfolio). Content lives in `docs/`.
-
-## Commands
-
-No build, test, lint, or typecheck commands configured — no package manifests found. All changes are static content.
-
-## GitHub Pages
-
-Two deployment workflows exist. Both deploy from `docs/` on push to `main`:
-- `.github/workflows/jekyll-gh-pages.yml` — Jekyll build pipeline
-- `.github/workflows/static.ymlЩ` — static content deploy (note: filename ends with Cyrillic `Щ`, possibly a mistake)
-
-## Conventions
-
-- Content is in Russian
-- `.gitignore` excludes `/Без названия/` (an "Untitled" directory artifact)
-- All work is done on `main` branch
+This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
+<!-- END:nextjs-agent-rules -->
